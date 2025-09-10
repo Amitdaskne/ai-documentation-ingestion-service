@@ -212,8 +212,8 @@ class TemplateGenerator:
         enumerations = self._collect_enumerations(pdf_field, sample_fields)
         
         # Create description
-        description = pdf_field.description if pdf_field else None
-        if not description and sample_fields:
+        description = getattr(pdf_field, 'description', None) if pdf_field else None
+        if not description:
             # Try to infer description from field names and examples
             description = self._infer_description(canonical_name, examples)
         
