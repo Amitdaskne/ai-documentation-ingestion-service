@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <product_id>PROD-123</product_id>
+        <name>Wireless Headphones</name>
+        <category>Electronics</category>
+        <price currency="USD">299.99</price>
+        <description>High-quality wireless headphones with noise cancellation</description>
+        <specifications>
+            <weight unit="grams">250</weight>
+            <battery_life unit="hours">30</battery_life>
+            <connectivity>Bluetooth 5.0</connectivity>
+        </specifications>
+        <availability>
+            <in_stock>true</in_stock>
+            <quantity>150</quantity>
+            <warehouse_location>WH-001</warehouse_location>
+        </availability>
+    </product>
+    <product>
+        <product_id>PROD-456</product_id>
+        <name>Bluetooth Speaker</name>
+        <category>Electronics</category>
+        <price currency="USD">74.99</price>
+        <description>Portable Bluetooth speaker with excellent sound quality</description>
+        <specifications>
+            <weight unit="grams">400</weight>
+            <battery_life unit="hours">12</battery_life>
+            <connectivity>Bluetooth 4.2</connectivity>
+        </specifications>
+        <availability>
+            <in_stock>true</in_stock>
+            <quantity>75</quantity>
+            <warehouse_location>WH-002</warehouse_location>
+        </availability>
+    </product>
+</products>

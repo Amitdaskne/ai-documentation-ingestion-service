@@ -1,0 +1,50 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD-001",
+      "customer_id": 1001,
+      "order_date": "2023-02-01",
+      "total_amount": 299.99,
+      "currency": "USD",
+      "status": "completed",
+      "items": [
+        {
+          "product_id": "PROD-123",
+          "product_name": "Wireless Headphones",
+          "quantity": 1,
+          "unit_price": 299.99
+        }
+      ],
+      "shipping_address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip_code": "12345",
+        "country": "USA"
+      }
+    },
+    {
+      "order_id": "ORD-002",
+      "customer_id": 1002,
+      "order_date": "2023-02-02",
+      "total_amount": 149.98,
+      "currency": "USD",
+      "status": "pending",
+      "items": [
+        {
+          "product_id": "PROD-456",
+          "product_name": "Bluetooth Speaker",
+          "quantity": 2,
+          "unit_price": 74.99
+        }
+      ],
+      "shipping_address": {
+        "street": "456 Oak Ave",
+        "city": "Another City",
+        "state": "NY",
+        "zip_code": "67890",
+        "country": "USA"
+      }
+    }
+  ]
+}
